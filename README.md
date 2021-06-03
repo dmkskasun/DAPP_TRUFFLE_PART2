@@ -10,5 +10,10 @@ In this you need Ganache, and nodejs.
 
 ![image](https://user-images.githubusercontent.com/71329902/120568423-ad1a7580-c3c8-11eb-945b-4ea149f8626f.png)
 
+If we open our election project we can see things like that,
+
+![image](https://user-images.githubusercontent.com/71329902/120568762-64af8780-c3c9-11eb-869f-4ba000d58db4.png)
+
+
 
 
