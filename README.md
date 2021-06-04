@@ -10,7 +10,7 @@ In this you need Ganache, and nodejs.
 
 ![image](https://user-images.githubusercontent.com/71329902/120568423-ad1a7580-c3c8-11eb-945b-4ea149f8626f.png)
 
-If we open our election project we can see things like that,
+If we open our election project, we can see things like that,
 
 ![image](https://user-images.githubusercontent.com/71329902/120568762-64af8780-c3c9-11eb-869f-4ba000d58db4.png)
 
@@ -19,6 +19,21 @@ We need new contracts file call election.sol, to do that we have to type "touch 
 ![image](https://user-images.githubusercontent.com/71329902/120569098-16e74f00-c3ca-11eb-8c97-a9c25141ad99.png)
 
 ![image](https://user-images.githubusercontent.com/71329902/120569127-1fd82080-c3ca-11eb-90ac-5e8340be7d67.png)
+
+## Sublime Text.
+Sublime Text is a nice version of doing solidity on your desktop. This is quite the same as a remix.
+
+#### How to download sublim text?
+
+https://www.sublimetext.com/3
+
+Once you download it, you have to make some changes to it, as shown below. 
+
+https://www.anujvarma.com/package-control-in-sublime-text-setting-up-for-solidity-development/
+
+Then you good to go,
+
+
 
 
 
